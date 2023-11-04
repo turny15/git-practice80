@@ -1,0 +1,3 @@
+my_practice2.txt
+git config --global --add merge.ff false
+git config --global --add pull.ff only
