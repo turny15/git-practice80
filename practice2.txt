@@ -5,3 +5,5 @@ this makes conflict!!
 be conflict
 
 this would not cause conflict.
+
+for git reset test
